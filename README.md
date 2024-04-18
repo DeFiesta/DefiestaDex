@@ -3,6 +3,9 @@
 
 Uniswap-like dex protocol that allow a better incentivization for liquidity providers.
 This repo includes a DDEX pool (rewards comes from the dex) and farming capabilities (rewards requires external income source).
+![DefiestaDex diagram](https://github.com/DeFiesta/DefiestaDex/assets/24890377/6e430fdf-0a02-4d77-be7a-6ff34d1a182d)
+
+
 
 ## Getting Started
 
